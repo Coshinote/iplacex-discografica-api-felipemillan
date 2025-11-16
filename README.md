@@ -1,4 +1,4 @@
-# WebService Prueba 2 - API REST de Discografía
+# API REST Spring para administración de discografías favoritas de empleados de IPLACEX
 
 API REST desarrollada con Spring Boot y MongoDB Atlas para gestionar artistas y discos.
 
